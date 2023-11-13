@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/banner.png">
+  <img src="https://media.tenor.com/CgKiDGnjnfgAAAAC/hi-hello.gif">
 </p>
 
 <img align="right" src="assets/emoji.gif" width="40px">
