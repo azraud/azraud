@@ -74,5 +74,5 @@
   <br>
   <a href="/CREDITS.md">Click to see Credits</a>
   <br><br>
-  <img src="https://media.tenor.com/orTKpX4YeBAAAAAC/hello-jack.gif">
+  <img src="https://media.tenor.com/o-xB0n5CvyEAAAAC/barbie-bye-felicia.gif">
 </p>
